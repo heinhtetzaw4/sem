@@ -1,2 +1,3 @@
 keep it simple at the moment
-reach lab2
+reached lab2
+![workflow](https://github.com/<UserName>/<RepositoryName>/actions/workflows/main.yml/badge.svg)
